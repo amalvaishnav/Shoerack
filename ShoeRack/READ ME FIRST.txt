@@ -1,0 +1,10 @@
+PROJECT FLOW
+
+(WEBSITE ISN'T YET ONBOARD ON INTERNET.)
+
+1-You have open all the pages from a localhost using something like WAMP server.
+2-First open Home.php. Then you can traverse through all website content.
+3-You should find a folder called 'admin' in which i made admin panel to manipulate user    registration and login data.username='amal',passwd='amal'.
+
+
+
